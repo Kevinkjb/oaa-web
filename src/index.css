@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Zalando+Sans+SemiExpanded:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root{
+  --main-theme-color: #1C1818;
+  --secondary-theme-color: #1f1f20;
+  --title-color: #1C1818;
+  --text-color: #656565;
+  --light-bg: #fff;
+  --light-color: #fff;
+  --text-hover-color: #d2691e;
+  --main-font: "Roboto", sans-serif;;
+  --button-color: #1C1818;
+  --button-hover-color: ;
+}
+
+*{
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+  supported by Chrome, Edge, Opera and Firefox */
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: var(--main-font);
+}

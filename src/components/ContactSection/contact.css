@@ -1,0 +1,95 @@
+.contact-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 75rem;
+    max-width: 100%;
+    height: 100%;
+    margin: 8rem auto;
+    padding: 1.5rem;
+}
+.contact-info-title{
+    font-size: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+.contact-text{
+    width: 29rem;
+    max-width: 100%;
+    line-height: 1.8;
+    color: var(--text-color);
+}
+.contact-info-details{
+    display: flex;
+    flex-direction: column;
+}
+.contact-info{
+    margin: 1rem 0;
+    line-height: 1.8;
+}
+.contact-map{
+    width: 40rem;
+    height: 40rem;
+}
+.contact-icon{
+    font-size:1.7rem;
+}
+
+.contact-phone{
+    width: 12rem;
+}
+.contact-email, .contact-phone, .postal-code{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    margin: 2rem 0;
+}
+.contact-email{
+   align-items: center;
+    width: 13.5rem;
+
+}
+.postal-code{
+    align-items: flex-start;
+    width: 11rem;
+
+}
+
+@media screen and (max-width: 1180px){
+    .contact-map{
+        width: 30rem;
+        height: 30rem;
+    }
+    .contact-text{
+        width: 25rem;
+    }
+}
+@media screen and (max-width: 940px){
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    width: 35rem;
+
+    padding: 1rem;
+}
+.contact-info-details{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+    .contact-text{
+        width: 100%;
+    }
+        .contact-map{
+        width: 33rem;
+        max-width: 100%;
+        height: 100%;
+    }
+}
+@media screen and (max-width: 400px){
+
+        .contact-map{
+        object-fit: cover;
+    }
+}

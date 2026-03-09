@@ -1,0 +1,153 @@
+.home-about-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    max-width: 100%;
+
+}
+.about-home-img{
+    height: 100%;
+    width: 40rem;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.home-about-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 100%;
+    margin: 1.5rem auto;
+    padding: 2rem;
+
+}
+.home-about-subtitle{
+    font-size: 2.3rem;
+    font-weight: 500;
+    margin-top: 1rem;
+    text-transform: uppercase;
+    color: var(--title-color);
+}
+
+.home-about-page{
+    height: 100%;
+    width: 30rem;
+}
+.home-about-info{
+    padding: 1rem;
+
+}
+
+.home-about-text{
+    width: 60rem;
+    font-size: 1.5rem;
+    text-align: justify;
+    margin: 1rem 0;
+    line-height: 1.8;
+    max-width: 100%;
+    color: var(--text-color);
+}
+
+.home-about-btn{
+    width: 15rem;
+    height: 3.5rem;
+    cursor: pointer;
+    border: none;
+    background-color: var(--main-theme-color);
+    color: var(--light-color);
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: 600;
+    transition: all .3s ease;
+    margin-top: 1rem;
+}
+
+.home-about-btn:hover{
+    width: 16rem;
+}
+
+
+
+@media screen and (max-width: 1040px) {
+
+    .home-about-text{
+        width: 25rem;
+        font-size: .9rem;
+    }
+    
+}
+@media screen and (max-width: 900px) {
+    .home-about-page{
+        height: 30rem;
+        width: 22rem;
+    }
+    .home-about-text{
+        width: 22rem;
+    }
+}
+@media screen and (max-width: 800px) {
+    .home-about-container{
+
+        flex-direction: column;
+        width: 35rem;
+        height: 100%;
+    }
+    .home-about-page{
+        height: 30rem;
+        width: 30rem;
+        margin-bottom: 3rem;
+    }
+    .home-about-text{
+        width: 30rem;
+        text-align: justify;
+    }
+    .home-about-info{
+        padding: 0;
+        margin-top: 1rem;
+    }
+    .about-home-img{
+        height: 30rem;
+    }
+
+}
+@media screen and (max-width: 550px) {
+    .home-about-container{
+        width: 30rem;
+    }
+    .home-about-page{
+        height: 30rem;
+        width: 25rem;
+    }
+    .home-about-text{
+        width: 25rem;
+    }
+}
+@media screen and (max-width: 470px) {
+    .home-about-container{
+        padding: 1.5rem;
+        width: 30rem;
+    }
+
+    .home-about-page{
+        height: 25rem;
+        width: 20rem;
+    }
+    .home-about-text{
+        width: 100%;
+        font-size: .8rem;
+    }
+}
+@media screen and (max-width: 380px) {
+    .home-about-container{
+        padding: 1.5rem;
+        width: 28rem;
+    }
+
+    .home-about-page{
+        height: 25rem;
+        width: 18rem;
+    }
+
+}

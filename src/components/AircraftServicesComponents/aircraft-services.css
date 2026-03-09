@@ -1,0 +1,26 @@
+.aircraft-services-container{
+    background-color: var(--main-theme-color);
+    height: 100%;
+    padding: 1.5rem;
+}
+.aircraft-services-title{
+    color: var(--light-color);
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2rem 0;
+    font-size: 2rem;
+}
+.aircraft-services-img{
+    width: 15rem;
+    height: 10rem;
+    object-fit: contain;
+}
+.aircraft-services-items{
+    display: flex;
+    flex-wrap: wrap;
+    width: 60rem;
+    max-width: 100%;
+    margin: 4rem auto;
+    align-items: center;
+    justify-content: center;
+}
