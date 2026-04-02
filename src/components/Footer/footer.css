@@ -147,7 +147,7 @@
     }
     .footer-text{
         width: 100%;
-        max-width: 80%;
+        max-width: 100%;
         font-size: .9rem;
     }
     .footer-navigation{
@@ -176,6 +176,6 @@
     }
 
     .footer-text{
-        width: 17rem;
+        width: 100%;
     }
 }

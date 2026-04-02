@@ -30,8 +30,31 @@ import image28 from '../../images/portfolio-images/image25.jpeg'
 import image29 from '../../images/portfolio-images/image26.jpeg'
 import image30 from '../../images/portfolio-images/image27.jpeg'
 import image31 from '../../images/portfolio-images/image28.jpeg'
-import { PhotoProvider, PhotoView } from 'react-photo-view';
-import 'react-photo-view/dist/react-photo-view.css';
+
+import image33 from '../../images/portfolio-images/image30.jpeg'
+import image34 from '../../images/portfolio-images/image31.JPG'
+import image35 from '../../images/portfolio-images/image32.JPG'
+import image36 from '../../images/portfolio-images/image33.JPG'
+import image37 from '../../images/portfolio-images/image34.jpeg'
+import image38 from '../../images/portfolio-images/image35.jpeg'
+import image39 from '../../images/portfolio-images/image36.jpeg'
+import image40 from '../../images/portfolio-images/image37.jpeg'
+import image41 from '../../images/portfolio-images/image38.jpeg'
+import image42 from '../../images/portfolio-images/image39.jpeg'
+import image43 from '../../images/portfolio-images/image40.jpeg'
+import image44 from '../../images/portfolio-images/image41.jpeg'
+import image45 from '../../images/portfolio-images/image42.jpeg'
+import image46 from '../../images/portfolio-images/image43.jpeg'
+import image47 from '../../images/portfolio-images/image44.jpeg'
+import image48 from '../../images/portfolio-images/image45.jpeg'
+import image49 from '../../images/portfolio-images/image46.jpeg'
+import image50 from '../../images/portfolio-images/image47.jpeg'
+import image51 from '../../images/portfolio-images/image48.jpeg'
+import image52 from '../../images/portfolio-images/image49.jpeg'
+
+
+// import { PhotoProvider, PhotoView } from 'react-photo-view';
+// import 'react-photo-view/dist/react-photo-view.css';
 
 import './gallery.css'
 const images = [
@@ -181,8 +204,140 @@ const images = [
     alt: 'Gallery Images'
   },
   {
-    id: 29,
+    id: 30,
     imageURL: image31,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 31,
+    imageURL: image31,
+    alt: 'Gallery Images'
+  },
+  // ,
+  // {
+  //   id: 32,
+  //   imageURL: image32,
+  //   alt: 'Gallery Images'
+  // }
+  // ,
+  {
+    id: 33,
+    imageURL: image33,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 34,
+    imageURL: image34,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 35,
+    imageURL: image35,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 36,
+    imageURL: image36,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 37,
+    imageURL: image37,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 38,
+    imageURL: image38,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 39,
+    imageURL: image39,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 40,
+    imageURL: image40,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 41,
+    imageURL: image41,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 42,
+    imageURL: image42,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 43,
+    imageURL: image43,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 44,
+    imageURL: image44,
+    alt: 'Gallery Images'
+  }
+  ,
+  {
+    id: 45,
+    imageURL: image45,
+    alt: 'Gallery Images'
+  }
+    ,
+  {
+    id: 46,
+    imageURL: image46,
+    alt: 'Gallery Images'
+  }
+    ,
+  {
+    id: 47,
+    imageURL: image47,
+    alt: 'Gallery Images'
+  }
+    ,
+  {
+    id: 48,
+    imageURL: image48,
+    alt: 'Gallery Images'
+  }
+    ,
+  {
+    id: 49,
+    imageURL: image49,
+    alt: 'Gallery Images'
+  }
+     ,
+  {
+    id: 50,
+    imageURL: image50,
+    alt: 'Gallery Images'
+  }
+    ,
+  {
+    id: 51,
+    imageURL: image51,
+    alt: 'Gallery Images'
+  }
+      ,
+  {
+    id: 52,
+    imageURL: image52,
     alt: 'Gallery Images'
   }
 ]
