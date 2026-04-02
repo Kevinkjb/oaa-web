@@ -30,7 +30,8 @@ import image28 from '../../images/portfolio-images/image25.jpeg'
 import image29 from '../../images/portfolio-images/image26.jpeg'
 import image30 from '../../images/portfolio-images/image27.jpeg'
 import image31 from '../../images/portfolio-images/image28.jpeg'
-
+import { PhotoProvider, PhotoView } from 'react-photo-view';
+import 'react-photo-view/dist/react-photo-view.css';
 
 import './gallery.css'
 const images = [
@@ -201,13 +202,16 @@ const GalleryComponents = () => {
         <img src={imageNine} className='gallery-image nine' alt="" />
         <img src={imageTen} className='gallery-image ten' alt="" />
       </div> */}
-      {images.map((item)=>(
+
+         {images.map((item)=>(
         <>
         <div className="gallery-container">
             <img src={item.imageURL} className='gallery-image' alt={item.alt} />
         </div>
         </>
-      ))}
+        ))}
+
+     
     </div>
   )
 }

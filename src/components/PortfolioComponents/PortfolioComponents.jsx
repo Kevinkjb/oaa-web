@@ -10,10 +10,10 @@ const PortfolioComponents = () => {
     <>
         <div className='portfolio-container'>
             <div className="portfolio-info">
-                <img className="portfolio-img image-one" src={imageOne} alt="" />
-                <img className="portfolio-img image-two"  src={imageTwo} alt="" />
-                <img className="portfolio-img image-four"  src={imageFour} alt="" />
-                <img className="portfolio-img image-three"  src={imageThree} alt="" />
+                <img className="portfolio-img image-one" src={imageOne} alt="Portfolio" />
+                <img className="portfolio-img image-two"  src={imageTwo} alt="Portfolio" />
+                <img className="portfolio-img image-four"  src={imageFour} alt="Portfolio" />
+                <img className="portfolio-img image-three"  src={imageThree} alt="Portfolio" />
 
             </div>
             <div className="portfolio-btn-container">
