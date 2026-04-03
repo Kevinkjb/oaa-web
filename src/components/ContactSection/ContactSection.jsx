@@ -19,7 +19,7 @@ const ContactSection = () => {
             <div className="contact-info">
               <div className='contact-phone'>
                 <FaPhoneAlt className='contact-icon'/>
-                <p>+1-780-903-5283</p>
+                <p>+1-780-903-5263</p>
               </div>
 
               <div className='contact-email'>

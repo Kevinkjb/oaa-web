@@ -8,6 +8,7 @@ import robertOlomi from '../../images/member-list/Robert.JPG'
 import BeauCampbell from '../../images/member-list/Beau Campbell.PNG'
 import Scott from '../../images/member-list/Scott.jpeg'
 import AJ from '../../images/member-list/AJ.jpeg'
+import AlexDeuchar from '../../images/member-list/Alex.png'
 const AboutMember = () => {
   return (
     <>
@@ -28,7 +29,7 @@ const AboutMember = () => {
           </div>
           <div className="member-box">
             <img className='member-image' src={Ed} alt="Ed Shanlon" />
-            <p className='member-name'>Ed Shanlon</p>
+            <p className='member-name'>Ed Saulou</p>
             <p className='member-text'>
               Ed Shanlon is a commercial-licensed pilot since 1973 and an aircraft owner since 1986. 
               He is a retired heavy-duty mechanic and welder and has been performing aircraft maintenance since 2020, 
@@ -57,17 +58,29 @@ const AboutMember = () => {
             </p>
           </div>
           <div className="member-box">
+            <img className='member-image' src={AlexDeuchar} alt="Alex Deuchar" />
+            <p className='member-name'>Alex Deuchar</p>
+            <p className='member-text'>
+              Alex has been around airplanes with his family his entire life in Wetaskiwin .
+              He has a great passion for motor sports , whether sledding or biking, he is always planning a trip somewhere, he works locally as a motorcycle mechanic.
+              He started helping us about 3 years ago and has since completed his avionics schooling in YYC.
+              With his avionics training complimenting his diverse mechanical skills, Alex is a great asset to us.
+            </p>
+          </div>
+          <div className="member-box">
             <img className='member-image' src={Gracie} alt="Gracie LeBlanc" />
             <p className='member-name'>Gracie LeBlanc</p>
             <p className='member-text'>
               Gracie LeBlanc loves working with aircraft and keeping the hangar clean and organized. 
+              Gracie helps with every aspect of the business, from servicing planes, to mowing, preparing our taxes , shopping for supplies, etc.
+              She is planning to leave us to become a doctor in the near future, she will be missed greatly.
               She supports the amazing crew and the owner, her uncle, and plans to obtain her pilot’s 
               license in the near future.
             </p>
           </div>
           <div className="member-box">
             <img className='member-image' src={BeauCampbell} alt="Beau Campbell" />
-            <p className='member-name'>Robert Olomi</p>
+            <p className='member-name'>Beau Campbell</p>
             <p className='member-text'>
               Beau is a young man who has aspirations to become a commercial pilot, he came to us a year ago just wanting to know more about airplanes.
               Since that time he has received his commercial license and is currently working on an instrument rating. At our shop, he has gained experience in all assets of maintenance working mostly with  Ed and Jason.
@@ -76,9 +89,9 @@ const AboutMember = () => {
           </div>
           <div className="member-box">
             <img className='member-image' src={AJ} alt="AJ" />
-            <p className='member-name'>AJ</p>
+            <p className='member-name'>Adam Sloan</p>
             <p className='member-text'>
-              Adam is a young man we met thru Gracie, he came and helped a few times on annuals while unsure of his future career choice.
+              AJ is a young man we met thru Gracie, he came and helped a few times on annuals while unsure of his future career choice.
               We feel very proud that we introduced AJ to aviation, and he has since graduated from avionics school, and works full time for a commercial airline .
               When needed, AJ still comes and helps us at OAA.
             </p>

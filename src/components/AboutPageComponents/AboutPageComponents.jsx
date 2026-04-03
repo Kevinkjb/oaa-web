@@ -23,17 +23,14 @@ const AboutPageComponents = () => {
                     </p>
                     <p className="about-page-text">
                        We work typically 2 days a week , as I am full time maintaining airliners all week, and my crew is also working or only able to commit 2 days a week. 
-                       For that reason, we are often refusing customers and like to keep the business to a small group of owners .
+                       For that reason, we can only accept a limited amount of customers.
                     </p>
                     <p className="about-page-text">
                      After nearly 10 years of business, not a lot has changed, we seem to retain the customers year after year, we have slowly built up tooling and stocked parts. 
                      Keeping our overhead low, is one of the keys to charging our customers reasonably.
                     </p>
                     <p className="about-page-text">
-                      I feel my biggest accomplishment over the last 10 years is not only keeping our 
-                      customers and their families safe, at a reasonable cost, but for me, it’s been the staff 
-                      I have hand picked to help me. I know countless AME’s who want to come help, 
-                      but I like to choose the best employees, The best in safety, knowledge, and teamwork
+                      I have had many people ask and inquire about employment with OAA, however I am very selective in choosing the right personalities committed to high standards, safety, customer service and teamwork .
                     </p>
                 </div>
             </div>

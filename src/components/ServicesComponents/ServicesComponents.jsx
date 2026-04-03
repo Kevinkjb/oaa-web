@@ -19,7 +19,7 @@ const ServicesComponents = () => {
                 <div className="services-info">
                         <p className='services-subtitle'>Maintenance & <br /> Annual Inspection</p>
                         <p className='services-home-text'>
-                          Professional aircraft maintenance and thorough annual inspections backed by over 27 years of hands-on experience with both small and large aircraft. Focused on safety, 
+                          Professional aircraft maintenance and thorough annual inspections backed by over 35 years of hands-on experience with both small and large aircraft. Focused on safety, 
                           reliability, and attention to detail to keep your aircraft airworthy and properly maintained.
                         </p>
                 </div>
