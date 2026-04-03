@@ -48,7 +48,7 @@ import image46 from '../../images/portfolio-images/image43.jpeg'
 import image47 from '../../images/portfolio-images/image44.jpeg'
 import image48 from '../../images/portfolio-images/image45.jpeg'
 import image49 from '../../images/portfolio-images/image46.jpeg'
-import image50 from '../../images/portfolio-images/image47.jpeg'
+// import image50 from '../../images/portfolio-images/image47.jpeg'
 import image51 from '../../images/portfolio-images/image48.jpeg'
 import image52 from '../../images/portfolio-images/image49.jpeg'
 
@@ -322,12 +322,12 @@ const images = [
     imageURL: image49,
     alt: 'Gallery Images'
   }
-     ,
-  {
-    id: 50,
-    imageURL: image50,
-    alt: 'Gallery Images'
-  }
+  //    ,
+  // {
+  //   id: 50,
+  //   imageURL: image50,
+  //   alt: 'Gallery Images'
+  // }
     ,
   {
     id: 51,
