@@ -21,7 +21,7 @@ const AboutMember = () => {
           <div className="member-box">
             <img className='member-image' src={Scott} alt="Scott Coggan" />
             <p className='member-name'>Scott Coggan (Owner)</p>
-            <p className='member-text'>Scott Coggan is an aircraft owner with multiple aircraft and over 35 years of experience in aviation. He holds M1 (small aircraft) and M2 (large aircraft) mechanic licenses, with experience on most general aviation aircraft as well as large transport aircraft. He is also a licensed commercial pilot and has been flying since 1993.</p>
+            <p className='member-text'>Scott is an aircraft owner with multiple aircraft and over 35 years of experience in aviation. He holds M1 (small aircraft) and M2 (large aircraft) mechanic licenses, with experience on most general aviation aircraft as well as large transport aircraft. He is also a licensed commercial pilot and has been flying since 1993.</p>
             {/* <p className='member-text'>35 years of experience in aviation.</p>
             <p className='member-text'>Licensed M1 (small aircraft) and M2 (large aircraft) mechanic.</p>
             <p className='member-text'>Experience on most general aviation aircraft and large transport aircraft.</p>
@@ -31,7 +31,7 @@ const AboutMember = () => {
             <img className='member-image' src={Ed} alt="Ed Shanlon" />
             <p className='member-name'>Ed Saulou</p>
             <p className='member-text'>
-              Ed Shanlon is a commercial-licensed pilot since 1973 and an aircraft owner since 1986. 
+              Ed is a commercial-licensed pilot since 1973 and an aircraft owner since 1986. 
               He is a retired heavy-duty mechanic and welder and has been performing aircraft maintenance since 2020, 
               driven by a strong passion for aviation. He has completed the ICS online aircraft mechanic course and continues to enjoy both aircraft mechanics and aviation.
             </p>
@@ -40,7 +40,7 @@ const AboutMember = () => {
             <img className='member-image' src={Jason} alt="Jason Duchesne" />
             <p className='member-name'>Jason Duchesne</p>
             <p className='member-text'>
-              Jason Duchesne has been a licensed pilot and aircraft owner since 2011. 
+              Jason has been a licensed pilot and aircraft owner since 2011. 
               He works as an automotive mechanic as his day job and works on 
               light aircraft recreationally as a way to support general aviation. 
               He is very passionate about flying and aircraft maintenance.
@@ -71,10 +71,10 @@ const AboutMember = () => {
             <img className='member-image' src={Gracie} alt="Gracie LeBlanc" />
             <p className='member-name'>Gracie LeBlanc</p>
             <p className='member-text'>
-              Gracie LeBlanc loves working with aircraft and keeping the hangar clean and organized. 
+              Gracie loves working with aircraft and keeping the hangar clean and organized. 
               Gracie helps with every aspect of the business, from servicing planes, to mowing, preparing our taxes , shopping for supplies, etc.
               She is planning to leave us to become a doctor in the near future, she will be missed greatly.
-              She supports the amazing crew and the owner, her uncle, and plans to obtain her pilot’s 
+              She supports our amazing crew and the owner, her uncle, and plans to obtain her pilot’s 
               license in the near future.
             </p>
           </div>

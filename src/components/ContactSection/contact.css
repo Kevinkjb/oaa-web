@@ -52,8 +52,12 @@
 }
 .postal-code{
     align-items: flex-start;
-    width: 11rem;
+    width: 15rem;
 
+}
+.contact-section-link{
+    text-decoration: none;
+    color: #000;
 }
 
 @media screen and (max-width: 1180px){

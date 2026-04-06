@@ -11,7 +11,7 @@ const AircraftServices = () => {
     <>
       <div className="aircraft-services-container">
         <div className="aircraft-services-header">
-            <h2 className='aircraft-services-title'>Aircrafts We Services</h2>
+            <h2 className='aircraft-services-title'>Aircraft We Service</h2>
         </div>
         <div className="aircraft-services-items">
             <img src={beechcraft} className='aircraft-services-img' alt="" />

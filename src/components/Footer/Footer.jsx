@@ -42,8 +42,9 @@ const Footer = () => {
             <div className="footer-social-links">
                 <p className="footer-title">Location</p>
                 <div className="footer-location">
+                    <p>4510 61st Street</p>
                     <p>PO Box 7041</p>
-                    <p>Wetaskiwin, AB</p>
+                    <p>Wetaskiwin Airport, AB</p>
                     <p>T9A2Y9</p>
                 </div>
 
@@ -51,8 +52,8 @@ const Footer = () => {
             <div className="footer-contact">
                 <p className="footer-title">Contact Us</p>
                 <div className="footer-contact-container">
-                    <p className="footer-contact-link"><MdCall className="footer-contact-icon"/>1-780-903-5283</p>
-                    <p className="footer-contact-link"><MdOutlineEmail className="footer-contact-icon"/>oaaex3@gmail.com</p>
+                    <p className="footer-contact-link"><MdCall className="footer-contact-icon"/><a href="tel:+1-780-903-5263">1-780-903-5263</a></p>
+                    <p className="footer-contact-link"><MdOutlineEmail className="footer-contact-icon"/><a href="mailto:oaaex3@gmail.com">oaaex3@gmail.com</a></p>
                 </div>
 
             </div>

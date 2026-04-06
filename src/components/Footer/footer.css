@@ -68,6 +68,7 @@
 .footer-location p{
     width: 8rem;
     margin: 1rem 0;
+    line-height: 1.6;
 }
 .footer-location p{
     text-decoration: none;
@@ -104,7 +105,10 @@
 .copyright a:hover{
     color: #fff;
 }
-
+.footer-contact-link a{
+    text-decoration: none;
+    color: #fff;
+}
 
 @media screen and (max-width: 1200px) {
     .footer-section{

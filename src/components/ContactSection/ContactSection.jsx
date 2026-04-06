@@ -1,7 +1,8 @@
-import map from './map.png'
+// import map from './map.png'
 import { IoIosPin, IoIosMail  } from "react-icons/io";
 import { FaPhoneAlt } from "react-icons/fa";
 import './contact.css'
+import GoogleMap from '../GoogleMap/GoogleMap';
 const ContactSection = () => {
   return (
     <>
@@ -19,25 +20,27 @@ const ContactSection = () => {
             <div className="contact-info">
               <div className='contact-phone'>
                 <FaPhoneAlt className='contact-icon'/>
-                <p>+1-780-903-5263</p>
+                <p><a className="contact-section-link" href="tel:+1-780-903-5263">+1-780-903-5263</a></p>
               </div>
 
               <div className='contact-email'>
                 <IoIosMail className='contact-icon'/>
-                <p>oaaex3@gmail.com</p>
+                <p><a className="contact-section-link" href="mailto:oaaex3@gmail.com">oaaex3@gmail.com</a></p>
               </div>
 
               <div className="postal-code">
                 <IoIosPin className='contact-icon'/>
                 <p>
+                  4510 61st Street <br />
                   PO Box 7041 <br /> 
-                  Wetaskiwin, AB <br />
+                  Wetaskiwin Airport, AB <br />
                   T9A2Y9
                 </p>
               </div>
             </div>
         </div>
-        <img className='contact-map' src={map} alt="" />
+        <GoogleMap/>
+
       </div>
     </>
 

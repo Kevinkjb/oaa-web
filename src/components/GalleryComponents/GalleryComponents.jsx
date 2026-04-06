@@ -50,7 +50,7 @@ import image48 from '../../images/portfolio-images/image45.jpeg'
 import image49 from '../../images/portfolio-images/image46.jpeg'
 // import image50 from '../../images/portfolio-images/image47.jpeg'
 import image51 from '../../images/portfolio-images/image48.jpeg'
-import image52 from '../../images/portfolio-images/image49.jpeg'
+// import image52 from '../../images/portfolio-images/image49.jpeg'
 
 
 // import { PhotoProvider, PhotoView } from 'react-photo-view';
@@ -209,11 +209,7 @@ const images = [
     alt: 'Gallery Images'
   }
   ,
-  {
-    id: 31,
-    imageURL: image31,
-    alt: 'Gallery Images'
-  },
+
   // ,
   // {
   //   id: 32,
@@ -334,12 +330,12 @@ const images = [
     imageURL: image51,
     alt: 'Gallery Images'
   }
-      ,
-  {
-    id: 52,
-    imageURL: image52,
-    alt: 'Gallery Images'
-  }
+  //     ,
+  // {
+  //   id: 52,
+  //   imageURL: image52,
+  //   alt: 'Gallery Images'
+  // }
 ]
 
 const GalleryComponents = () => {
