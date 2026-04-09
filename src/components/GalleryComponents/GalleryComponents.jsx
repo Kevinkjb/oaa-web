@@ -105,7 +105,7 @@ const images = [
   },
   {
     id: 9,
-    imageURL: image11,
+    imageURL: image15,
     alt: 'Gallery Images'
   },
   {
@@ -125,7 +125,7 @@ const images = [
   },
   {
     id: 13,
-    imageURL: image15,
+    imageURL: image11,
     alt: 'Gallery Images'
   },
   {
@@ -145,7 +145,7 @@ const images = [
   },
   {
     id: 17,
-    imageURL: image19,
+    imageURL: image21,
     alt: 'Gallery Images'
   },
   {
@@ -155,12 +155,12 @@ const images = [
   },
   {
     id: 19,
-    imageURL: image21,
+    imageURL: image19,
     alt: 'Gallery Images'
   },
   {
     id: 20,
-    imageURL: image22,
+    imageURL: image24,
     alt: 'Gallery Images'
   },
   {
@@ -170,7 +170,7 @@ const images = [
   },
   {
     id: 22,
-    imageURL: image24,
+    imageURL: image27,
     alt: 'Gallery Images'
   },
   {
@@ -185,7 +185,7 @@ const images = [
   },
   {
     id: 25,
-    imageURL: image27,
+    imageURL: image22,
     alt: 'Gallery Images'
   },
   {
@@ -195,7 +195,7 @@ const images = [
   },
   {
     id: 27,
-    imageURL: image29,
+    imageURL: image33,
     alt: 'Gallery Images'
   },
   {
@@ -219,7 +219,7 @@ const images = [
   // ,
   {
     id: 33,
-    imageURL: image33,
+    imageURL: image29,
     alt: 'Gallery Images'
   }
   ,
@@ -231,7 +231,7 @@ const images = [
   ,
   {
     id: 35,
-    imageURL: image35,
+    imageURL: image37,
     alt: 'Gallery Images'
   }
   ,
@@ -243,7 +243,7 @@ const images = [
   ,
   {
     id: 37,
-    imageURL: image37,
+    imageURL: image35,
     alt: 'Gallery Images'
   }
   ,
@@ -267,13 +267,13 @@ const images = [
   ,
   {
     id: 41,
-    imageURL: image41,
+    imageURL: image42,
     alt: 'Gallery Images'
   }
   ,
   {
     id: 42,
-    imageURL: image42,
+    imageURL: image41,
     alt: 'Gallery Images'
   }
   ,
@@ -303,7 +303,7 @@ const images = [
     ,
   {
     id: 47,
-    imageURL: image47,
+    imageURL: image51,
     alt: 'Gallery Images'
   }
     ,
@@ -327,7 +327,7 @@ const images = [
     ,
   {
     id: 51,
-    imageURL: image51,
+    imageURL: image47,
     alt: 'Gallery Images'
   }
   //     ,
