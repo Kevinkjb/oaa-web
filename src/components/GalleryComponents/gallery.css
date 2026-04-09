@@ -58,8 +58,7 @@
         display: grid;
         grid-template-columns: repeat(2, auto);
         grid-template-rows: repeat(15, auto);
-        width: 99%;
-        gap: .5rem;
+        width: 95%;
 
     }
     .gallery-image{

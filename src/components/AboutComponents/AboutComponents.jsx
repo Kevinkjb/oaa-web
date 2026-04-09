@@ -1,5 +1,5 @@
 
-import aboutImage from '../../images/portfolio-images/image26.jpeg'
+import aboutImage from '../../images/portfolio-images/image26-p.jpeg'
 import './home-about.css'
 import { HashLink } from 'react-router-hash-link'
 const AboutComponents = () => {
