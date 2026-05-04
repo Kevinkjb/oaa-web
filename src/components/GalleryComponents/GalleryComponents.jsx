@@ -26,7 +26,7 @@ import landscapeImg23 from '../../images/portfolio-images/image40.jpeg'
 import landscapeImg24 from '../../images/portfolio-images/image41.jpeg'
 import landscapeImg25 from '../../images/portfolio-images/image44.jpeg'
 import landscapeImg26 from '../../images/portfolio-images/image45.jpeg'
-// import landscapeImg27 from '../../images/portfolio-images/image46.jpeg'
+import landscapeImg27 from '../../images/portfolio-images/image46.jpeg'
 
 // PORTRAIT IMAGES
 import portraitImg1 from '../../images/portfolio-images/image2-p.jpeg'
@@ -171,11 +171,12 @@ const images = [
     imageURL: landscapeImg22,
     alt: 'Gallery Images'
   },
-  {
+    {
     id: 22,
-    imageURL: landscapeImg22,
+    imageURL: landscapeImg27,
     alt: 'Gallery Images'
   },
+
   {
     id: 23,
     imageURL: landscapeImg23,
